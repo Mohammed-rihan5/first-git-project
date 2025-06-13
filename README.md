@@ -1,2 +1,2 @@
 # first-git-project
-learning new skills
+learning new skill
